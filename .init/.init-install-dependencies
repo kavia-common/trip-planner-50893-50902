@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/trip-planner-50893-50902/travel_planner_frontend"
+}
